@@ -16,6 +16,9 @@
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
 
+<br>
+<br>
+
  ### Tecnologias 🚀
 
 <br>
