@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center"> Sobre o Projeto 👨🏻‍💻</h1>
-<h1 align="center">Bootstrap-Framework</h1>
-<h3 align="center">Frameworks do Bootstraps de uma forma resumida e facil de pegar</h3>
+<h3 align="center">Bootstrap-Framework</h3>
+<h4 align="center">Frameworks do Bootstraps de uma forma resumida e facil de pegar</h3>
 
 <br>
 
