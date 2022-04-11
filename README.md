@@ -15,3 +15,10 @@
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
+
+ ### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **HTML**
+  - [x] **CSS**
