@@ -18,7 +18,13 @@
 
  ### Tecnologias 🚀
 
+<br>
+
   As seguintes ferramentas foram usadas na construção do projeto:
 
   - [x] **HTML**
   - [x] **CSS**
+
+<br>
+  <h1 align="center">Siga-me</h1>
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
